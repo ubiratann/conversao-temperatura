@@ -1,0 +1,2 @@
+#Ignore COPY of node_modules if it exists
+node_modules
